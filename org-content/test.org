@@ -1,2 +1,8 @@
+:PROPERTIES:
+:ID:       13EE4D3A-0402-4289-9610-D73DCD971B38
+:END:
+#+title: test
+#+hugo_slug: start-here
+
 * 說好的第一篇
 來測試一下
